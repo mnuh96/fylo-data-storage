@@ -90,7 +90,6 @@
   display: inline;
   position: relative;
   left: 20px;
-  bottom: 10px;
   font-size: 30px;
   font-weight: 700;
 }
@@ -98,7 +97,7 @@
 .text2{
   position: relative;
   left: 25px;
-  bottom: 15px;
+  bottom: 5px;
   width: auto;
   color: hsl(229, 7%, 55%);
 }
@@ -106,7 +105,7 @@
 
 .used{
   position: absolute;
-  top: 10%;
+  top: 35px;
   left: 5%;
   font-weight: 400;
   color: hsl(229, 7%, 55%);
@@ -116,7 +115,7 @@
   background-color: hsl(229, 57%, 11%);
   position: absolute;
   height: 20px;
-  top: 50px;
+  top: 80px;
   left: 5%;
   width: 85%;
   border-radius: 10px;
@@ -145,7 +144,7 @@
 .start{
   color: hsl(229, 7%, 55%);
   position: absolute;
-  left: 5%;
+  left: 6%;
   bottom: 20px;
   font-weight: bolder;
 }
@@ -153,7 +152,7 @@
 .total{
   color: hsl(229, 7%, 55%);
   position: absolute;
-  right: 5%;
+  right: 10%;
   bottom: 20px;
   font-weight: bolder;
 }
